@@ -24,10 +24,30 @@ How Layer Weights Shift Under Failure Cost
 Zenodo: https://doi.org/10.5281/zenodo.20422169  
 SSRN: under review
 
-## Project Links
+## Book
 
-Zenodo Community: https://zenodo.org/communities/ordering-papers/records  
+Ordering: How Systems Reprice When Failure Becomes Expensive
 
-OSF Project:  https://osf.io/q7kzw/ 
+D2D / Books2Read: https://books2read.com/u/4Xy7l6
+
+Apple Books: https://books.apple.com/us/book/ordering-how-systems-reprice-when-failure-becomes-expensive/id6770094203
+
+Amazon KDP: https://www.amazon.com/dp/B0H2BPGD42
+
+## Working Papers
+
+Zenodo Archive: https://zenodo.org/communities/ordering-papers/records
+
+SSRN Author Page: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11701268
+
+Status: working paper listings pending review
+
+OSF Project: https://osf.io/q7kzw/
+
+## Main Landing Page
+
+https://read-ordering.netlify.app/
+
+## Notes
 
 Substack: https://notesonordering.substack.com/
