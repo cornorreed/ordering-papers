@@ -27,5 +27,5 @@ SSRN: under review
 ## Project Links
 
 Zenodo Community: https://zenodo.org/communities/ordering-papers/records  
-OSF Project: add OSF link  
-Substack: add Substack link
+OSF Project:  https://osf.io/q7kzw/
+Substack: https://notesonordering.substack.com/
